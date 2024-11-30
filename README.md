@@ -1,6 +1,3 @@
-### **README.md**
-
-```markdown
 # 📊 Pandas Notebooks Collection
 
 Welcome to the **Pandas Notebooks Collection**! This repository contains a curated set of Jupyter Notebooks designed to help you learn, practice, and master **Pandas**—a powerful library for data manipulation and analysis in Python.
