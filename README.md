@@ -29,6 +29,9 @@ Welcome to the **Pandas Notebooks Collection**! This repository contains a curat
 │   ├── 06_Add & Remove Rows and Columns From Data Frames.ipynb
 │   ├── 07_Sorting Data.ipynb
 │   └── 08_Panda SQL & Pandas Query.ipynb
+│   └── 09_Working with Dates and Time Series Data.ipynb
+│   └── 10_Grouping and Aggregating - Analyzing and Exploring Data.ipynb
+│   └── 11_Cleaning Data - Casting Datatypes and Handling Missing Values.ipynb
 ├── datasets/
 │   ├── survey_results_schema.csv
 │   └── survey_results_public.csv
